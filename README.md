@@ -56,7 +56,7 @@
 
 
 <div style='display: flex; gap: 0.45rem; justify-content: center; text-align: center;' align="center">
-  <a href=''><img src='https://img.shields.io/badge/Paper-arxiv-red'></a>
+  <a href='https://arxiv.org/abs/2605.07897'><img src='https://img.shields.io/badge/Paper-arxiv-red'></a>
   <a href='LICENCE'><img src='https://img.shields.io/badge/License-Apache 2.0-g.svg'></a>
 </div>
 
