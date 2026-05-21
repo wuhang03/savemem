@@ -147,7 +147,12 @@ Core codes of our proposed SAVEMem is in [savemem.py](models/qwen2-5-vl/src/qwen
 ## 📑 Citation
 If you find our project useful, we hope you can star our repo and cite our paper as follows:
 ```
-
+@article{wu2026semantic,
+  title={Semantic-Aware Adaptive Visual Memory for Streaming Video Understanding},
+  author={Wu, Hang and Mathews, Sherin Mary and Cai, Yujun and Yang, Ming-Hsuan and Wang, Yiwei},
+  journal={arXiv preprint arXiv:2605.07897},
+  year={2026}
+}
 ```
 
 ## 📝 Acknowledgements
